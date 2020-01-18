@@ -18,7 +18,7 @@ Flixset is an app that allows users to browse movies from the [The Movie Databas
 - [x] (1pt) Run your app on a real device.
 
 ### App Walkthough GIF
-<img src="YOUR_GIF_URL_HERE" width=250><br>
+<img src="http://g.recordit.co/m2o8o369tw.gif" width=250><br>
 
 ### Notes
 None.
